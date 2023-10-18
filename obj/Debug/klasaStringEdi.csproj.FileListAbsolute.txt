@@ -1,0 +1,7 @@
+C:\Users\ucenik\source\repos\klasaStringEdi\bin\Debug\klasaStringEdi.exe.config
+C:\Users\ucenik\source\repos\klasaStringEdi\bin\Debug\klasaStringEdi.exe
+C:\Users\ucenik\source\repos\klasaStringEdi\bin\Debug\klasaStringEdi.pdb
+C:\Users\ucenik\source\repos\klasaStringEdi\obj\Debug\klasaStringEdi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\klasaStringEdi\obj\Debug\klasaStringEdi.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\klasaStringEdi\obj\Debug\klasaStringEdi.exe
+C:\Users\ucenik\source\repos\klasaStringEdi\obj\Debug\klasaStringEdi.pdb
